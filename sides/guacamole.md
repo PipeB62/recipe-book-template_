@@ -13,7 +13,7 @@
 
 ## Instructions
 
-1. Chop avocados
+1. Chop avocados in thin slices
 2. Chop onion
 3. Chop chili
 4. Squeeze lime
