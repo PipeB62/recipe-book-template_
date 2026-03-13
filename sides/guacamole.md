@@ -13,10 +13,10 @@
 
 ## Instructions
 
-- chop avocados
-- chop onion
-- chop chili
-- squeeze lime
-- add salt
-- and mix well
-- enjoy!
+1. Chop avocados
+2. Chop onion
+3. Chop chili
+4. Squeeze lime
+5. Add salt
+6. Mix well
+7. Enjoy!
