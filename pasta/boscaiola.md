@@ -36,7 +36,7 @@ Simmer gently for a few minutes until the sauce thickens.
 Adjust salt and pepper.
 
 4. Cook the pasta
-Boil pasta in salted water until al dente.
+Boil pasta in salted water until al dente
 
 Transfer it directly into the sauce and toss well.
 
